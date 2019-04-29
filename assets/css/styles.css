@@ -1,0 +1,15 @@
+body{
+  margin: 0;
+}
+
+.navbarfix{
+  height: 70px;
+}
+
+.navbar{
+  height: 70px;
+  width: 100%;
+  background-color: red;
+  position: fixed;
+  top: 0;
+}
