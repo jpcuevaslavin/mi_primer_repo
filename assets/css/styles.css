@@ -3,11 +3,11 @@ body{
 }
 
 .navbarfix{
-  height: 70px;
+  height: 75px;
 }
 
 .navbar{
-  height: 70px;
+  height: 75px;
   width: 100%;
   background-color: red;
   position: fixed;
